@@ -1,4 +1,4 @@
-# Proyecto Backend de Posts con Laravel
+# Proyecto Backend de registro de personas y mascotas con Laravel
 
 ## Descripción
 Este es un proyecto backend desarrollado con **Laravel**, el framework de PHP más popular y robusto.
